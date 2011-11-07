@@ -31,6 +31,8 @@
     <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
     <LinkedServerProject>
     </LinkedServerProject>
+    <Utf8Output>true</Utf8Output>
+    <ExpressionBlendVersion>4.0.20525.0</ExpressionBlendVersion>
   </PropertyGroup>
   <!-- This property group is only here to support building this project using the 
        MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
@@ -66,6 +68,8 @@
     <Reference Include="system" />
     <Reference Include="System.Core" />
     <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Controls.Toolkit" />
+    <Reference Include="System.Windows.Controls.Toolkit.Internals" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Windows.Browser" />
     <Reference Include="System.Windows.Controls" />
