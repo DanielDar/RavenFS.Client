@@ -29,7 +29,7 @@
 
                     <ContentControl Style="{StaticResource LogoIcon}"/>
                     <TextBlock x:Name="ApplicationNameTextBlock" Style="{StaticResource ApplicationNameStyle}" 
-                               Text="Application Name"/>
+                               Text="RavenFS Client"/>
 
                 </StackPanel>
             </Border>
