@@ -43,7 +43,7 @@
                     <Rectangle x:Name="Divider1" Style="{StaticResource DividerStyle}"/>
 					
                     <HyperlinkButton x:Name="Link2" Style="{StaticResource LinkStyle}" 
-                                     NavigateUri="/About" TargetName="ContentFrame" Content="about"/>
+                                     NavigateUri="/FileInfo" TargetName="ContentFrame" Content="file info"/>
 
                 </StackPanel>
             </Border>
